@@ -1,0 +1,6 @@
+{
+  "name": "ANYA BEAUTY CENTER & SPA — Oran",
+  "description": "Aperçu bilingue (Français / Arabe) pour ANYA BEAUTY CENTER & SPA à Oran, Algérie. Hammam traditionnel, coiffure, esthétique et soins de bien-être.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
